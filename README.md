@@ -1,0 +1,20 @@
+# Analytics Capstone Project
+
+## Course Description
+
+The purpose of the Analytics Capstone Project is for students to apply the knowledge and skills acquired during their master's program to a project involving actual data in a real world setting. During the project, students will apply the entire data science process from identifying a problem or opportunity, and collecting and processing actual data to applying suitable and appropriate analytic methods to find a solution.
+
+Both the problem statement for the project and the datasets will come from real-world domains similar to those that students might typically encounter within industry, government, or academic research. The course will culminate with each student making a presentation of his or her work, and submitting a final paper, and, if applicable, a computer application.
+
+This course requires a great deal of self-directed work and the ability to manage time and meet deadlines.
+
+**Restrictions/Requirements:** Open to Data Science Majors.
+
+## Main Solution / Platform
+
+- http://wyn360search.com/
+
+## Main Tools
+
+- **Claude Code**
+- **wyn360-cli**: https://pypi.org/project/wyn360-cli/

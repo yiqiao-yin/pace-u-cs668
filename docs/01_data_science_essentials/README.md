@@ -37,9 +37,29 @@ This module covers the fundamental concepts and tools essential for data science
 
 ## Prerequisites
 
-- Basic programming knowledge
-- Understanding of algebra and calculus
-- Familiarity with command line tools
+### Technical Requirements
+- **Python 3.8+**: Basic proficiency with Python syntax and programming concepts
+- **Development Environment**: Jupyter Notebook or Jupyter Lab installed
+- **Package Manager**: Familiarity with pip or conda for installing libraries
+
+### Mathematical Background
+- **Algebra**: Linear equations, matrices, and vectors
+- **Calculus**: Basic understanding of derivatives and integrals
+- **Statistics**: Mean, median, mode, variance, and standard deviation concepts
+
+### Computing Skills
+- **Command Line**: Basic terminal/command prompt navigation
+- **File Management**: Understanding of file paths and directory structures
+- **Git (Optional)**: Basic version control knowledge is helpful but not required
+
+### Recommended Libraries to Install
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
+
+### Time Commitment
+- Estimated study time: 20-30 hours
+- Hands-on practice: 10-15 hours
 
 ## Learning Outcomes
 

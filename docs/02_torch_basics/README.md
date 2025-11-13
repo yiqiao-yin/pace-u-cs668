@@ -38,10 +38,41 @@ This module introduces PyTorch, one of the most popular deep learning frameworks
 
 ## Prerequisites
 
-- Python programming proficiency
-- Understanding of neural network concepts
-- Linear algebra basics
-- Data Science Essentials (Module 01)
+### Required Modules
+- **Module 01**: Data Science Essentials (strongly recommended)
+
+### Technical Requirements
+- **Python 3.8+**: Intermediate to advanced Python programming skills
+- **PyTorch 2.0+**: Will be installed during the course
+- **CUDA (Optional)**: For GPU acceleration, NVIDIA GPU with CUDA support
+- **Development Environment**: Jupyter Notebook, VS Code, or PyCharm
+
+### Mathematical Background
+- **Linear Algebra**: Matrix operations, dot products, eigenvalues/eigenvectors
+- **Calculus**: Partial derivatives, chain rule (for backpropagation)
+- **Probability**: Basic probability theory and distributions
+- **Optimization**: Understanding of gradient descent concepts
+
+### Deep Learning Knowledge
+- **Neural Networks**: Basic understanding of how neural networks work
+- **Activation Functions**: Familiarity with ReLU, sigmoid, tanh
+- **Loss Functions**: MSE, cross-entropy concepts
+- **Backpropagation**: Conceptual understanding (will be reinforced in course)
+
+### Programming Skills
+- **Object-Oriented Programming**: Classes, inheritance, methods
+- **NumPy**: Array operations and broadcasting
+- **Data Handling**: Working with datasets and data structures
+
+### Recommended Libraries to Install
+```bash
+pip install torch torchvision torchaudio numpy matplotlib tensorboard
+```
+
+### Time Commitment
+- Estimated study time: 30-40 hours
+- Hands-on coding practice: 20-30 hours
+- Project work: 10-15 hours
 
 ## Learning Outcomes
 

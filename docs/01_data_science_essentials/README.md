@@ -68,3 +68,11 @@ By the end of this module, students will be able to:
 - Preprocess and clean datasets for analysis
 - Apply basic statistical methods to draw insights
 - Prepare data for machine learning workflows
+
+## Video Tutorials
+
+📺 **[Watch: Data Science Essentials Tutorial Playlist](https://youtube.com/playlist?list=PLE06V2Lg9GqP5a9UfG2gGloAr_8oVaEyo&si=asbrppsBdv2HCr2o)**
+
+> **Click the link above to access the complete video tutorial series on YouTube**
+
+This comprehensive video tutorial series covers data science fundamentals, including Python programming, statistical analysis, data preprocessing, exploratory data analysis, and machine learning basics. Perfect for building a solid foundation in data science.

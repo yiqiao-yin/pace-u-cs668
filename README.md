@@ -63,9 +63,9 @@ We strongly recommend using **[Overleaf](https://www.overleaf.com/)** for writin
 
 **New to LaTeX?** Don't worry! Watch this comprehensive beginner-friendly tutorial series:
 
-[![LaTeX Tutorial for Beginners](https://img.youtube.com/vi/videoseries/maxresdefault.jpg)](https://youtube.com/playlist?list=PLE06V2Lg9GqNSkdZGTWtRXzHx4DY7ZdRd&si=i7OSqGuXB53eMAlJ)
+📺 **[Watch: Complete LaTeX Tutorial Playlist for Beginners](https://youtube.com/playlist?list=PLE06V2Lg9GqNSkdZGTWtRXzHx4DY7ZdRd&si=i7OSqGuXB53eMAlJ)**
 
-**[Complete LaTeX Tutorial Playlist for Beginners](https://youtube.com/playlist?list=PLE06V2Lg9GqNSkdZGTWtRXzHx4DY7ZdRd&si=i7OSqGuXB53eMAlJ)**
+> **Click the link above to access the full video tutorial series on YouTube**
 
 This playlist covers everything from LaTeX basics to advanced formatting, including:
 - Document structure and formatting

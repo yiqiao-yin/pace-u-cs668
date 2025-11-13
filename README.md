@@ -24,20 +24,17 @@ This course requires a great deal of self-directed work and the ability to manag
 ```
 pace-u-cs668/
 ├── README.md
-├── docs/
-│   ├── 01_data_science_essentials/
-│   │   └── README.md
-│   ├── 02_torch_basics/
-│   │   └── README.md
-│   ├── 03_deepspeed_basics/
-│   │   └── README.md
-│   ├── 04_gradio_apps/
-│   │   └── README.md
-│   └── 05_streamlit_apps/
-│       └── README.md
-├── pace-u-cs668/
-├── pace-u-cs676/
-└── students/
+└── docs/
+    ├── 01_data_science_essentials/
+    │   └── README.md
+    ├── 02_torch_basics/
+    │   └── README.md
+    ├── 03_deepspeed_basics/
+    │   └── README.md
+    ├── 04_gradio_apps/
+    │   └── README.md
+    └── 05_streamlit_apps/
+        └── README.md
 ```
 
 ### Documentation Modules

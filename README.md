@@ -1,5 +1,15 @@
 # Analytics Capstone Project
 
+![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Course Level](https://img.shields.io/badge/level-graduate-orange.svg)
+![Pace University](https://img.shields.io/badge/institution-Pace%20University-purple.svg)
+![Data Science](https://img.shields.io/badge/field-data%20science-green.svg)
+![PyTorch](https://img.shields.io/badge/framework-PyTorch-red.svg)
+![Gradio](https://img.shields.io/badge/platform-Gradio-yellow.svg)
+![Streamlit](https://img.shields.io/badge/platform-Streamlit-red.svg)
+![LaTeX](https://img.shields.io/badge/docs-LaTeX%2FOverleaf-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 ## Course Description
 
 The purpose of the Analytics Capstone Project is for students to apply the knowledge and skills acquired during their master's program to a project involving actual data in a real world setting. During the project, students will apply the entire data science process from identifying a problem or opportunity, and collecting and processing actual data to applying suitable and appropriate analytic methods to find a solution.

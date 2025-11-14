@@ -102,8 +102,8 @@ By the end of this module, students will be able to:
 
 ## Video Tutorials
 
-[![Gradio Tutorial Playlist](https://img.youtube.com/vi/videoseries/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLE06V2Lg9GqMz0q5jqD2tP6dx1RLZsBNK)
+📺 **[Watch: Complete Gradio Tutorial Playlist](https://www.youtube.com/playlist?list=PLE06V2Lg9GqMz0q5jqD2tP6dx1RLZsBNK)**
 
-**[Watch the Complete Gradio Tutorial Playlist on YouTube](https://www.youtube.com/playlist?list=PLE06V2Lg9GqMz0q5jqD2tP6dx1RLZsBNK)**
+> **Click the link above to access the full video tutorial series on YouTube**
 
 This comprehensive video tutorial series covers Gradio applications from basics to advanced topics. The playlist includes hands-on examples and practical demonstrations to help you master building interactive ML interfaces.

@@ -43,17 +43,35 @@ pace-u-cs668/
     │   └── README.md
     ├── 04_gradio_apps/
     │   └── README.md
-    └── 05_streamlit_apps/
+    ├── 05_streamlit_apps/
+    │   └── README.md
+    ├── 06_llm_fundamentals/
+    │   └── README.md
+    ├── 07_prompt_engineering/
+    │   └── README.md
+    ├── 08_rag_systems/
+    │   └── README.md
+    ├── 09_fine_tuning/
+    │   └── README.md
+    └── 10_ai_agents/
         └── README.md
 ```
 
 ### Documentation Modules
 
+#### Foundation Modules
 - **01_data_science_essentials**: Core data science concepts including Python, statistics, EDA, and ML basics
 - **02_torch_basics**: PyTorch fundamentals for building and training neural networks
 - **03_deepspeed_basics**: Distributed training and optimization with DeepSpeed
 - **04_gradio_apps**: Building interactive ML interfaces with Gradio
 - **05_streamlit_apps**: Creating data science dashboards with Streamlit
+
+#### GenAI & Advanced Modules
+- **06_llm_fundamentals**: Working with Large Language Models (Claude, GPT, Llama)
+- **07_prompt_engineering**: Advanced prompting techniques, chain-of-thought, few-shot learning
+- **08_rag_systems**: Retrieval-Augmented Generation with vector databases
+- **09_fine_tuning**: Model fine-tuning and adaptation techniques
+- **10_ai_agents**: Building autonomous AI agents and multi-agent systems
 
 ## Poster and Paper Requirements
 

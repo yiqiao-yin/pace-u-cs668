@@ -93,4 +93,4 @@ Let's begin your journey into Generative AI!
 
 ---
 
-**Next Step**: Start with [Module 01 - Data Science Essentials](/docs/01_data_science_essentials/README)
+**Next Step**: Start with [Module 01 - Data Science Essentials](/docs/data_science_essentials/)

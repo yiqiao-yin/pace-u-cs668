@@ -31,52 +31,52 @@ const modules = [
   {
     title: 'Data Science Essentials',
     description: 'Master the fundamentals of data science with Python, statistics, and machine learning basics.',
-    link: '/docs/01_data_science_essentials/README',
+    link: '/docs/data_science_essentials/',
   },
   {
     title: 'PyTorch Basics',
     description: 'Learn to build and train neural networks using PyTorch.',
-    link: '/docs/02_torch_basics/README',
+    link: '/docs/torch_basics/',
   },
   {
     title: 'DeepSpeed Basics',
     description: 'Scale your training with distributed computing and memory optimization.',
-    link: '/docs/03_deepspeed_basics/README',
+    link: '/docs/deepspeed_basics/',
   },
   {
     title: 'Gradio Apps',
     description: 'Create interactive web interfaces for your ML models.',
-    link: '/docs/04_gradio_apps/README',
+    link: '/docs/gradio_apps/',
   },
   {
     title: 'Streamlit Apps',
     description: 'Build data science dashboards and applications.',
-    link: '/docs/05_streamlit_apps/README',
+    link: '/docs/streamlit_apps/',
   },
   {
     title: 'LLM Fundamentals',
     description: 'Understand large language models and how to use them.',
-    link: '/docs/06_llm_fundamentals/README',
+    link: '/docs/llm_fundamentals/',
   },
   {
     title: 'Prompt Engineering',
     description: 'Master the art of crafting effective prompts for LLMs.',
-    link: '/docs/07_prompt_engineering/README',
+    link: '/docs/prompt_engineering/',
   },
   {
     title: 'RAG Systems',
     description: 'Build retrieval-augmented generation applications.',
-    link: '/docs/08_rag_systems/README',
+    link: '/docs/rag_systems/',
   },
   {
     title: 'Fine-Tuning',
     description: 'Customize LLMs for your specific use cases.',
-    link: '/docs/09_fine_tuning/README',
+    link: '/docs/fine_tuning/',
   },
   {
     title: 'AI Agents',
     description: 'Create autonomous AI agents that can reason and act.',
-    link: '/docs/10_ai_agents/README',
+    link: '/docs/ai_agents/',
   },
 ];
 

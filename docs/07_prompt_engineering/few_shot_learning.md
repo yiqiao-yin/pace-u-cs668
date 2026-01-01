@@ -340,7 +340,7 @@ Extracted:"""
 
 ### Code Generation
 
-```python
+````python
 code_prompt = """
 Write a Python function based on the description.
 
@@ -364,7 +364,7 @@ def find_max(lst: list) -> int:
 
 Description: {task_description}
 Code:"""
-```
+````
 
 ## Best Practices
 

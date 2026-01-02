@@ -107,6 +107,13 @@ const sidebars = {
         'ai_agents/multi_agent_systems',
       ],
     },
+    {
+      type: 'category',
+      label: 'Appendix - Submission',
+      items: [
+        'appendix_submission/README',
+      ],
+    },
   ],
 };
 

@@ -36,11 +36,19 @@
 
 .hero__title {
   font-size: 3rem;
+  color: #ffffff !important;
 }
 
 .hero__subtitle {
   font-size: 1.5rem;
   opacity: 0.9;
+  color: #ffffff !important;
+}
+
+/* Ensure hero text is white in dark mode */
+[data-theme='dark'] .hero__title,
+[data-theme='dark'] .hero__subtitle {
+  color: #ffffff !important;
 }
 
 /* Code blocks */

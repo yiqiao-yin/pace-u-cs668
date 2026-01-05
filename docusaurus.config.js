@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CS668 GenAI Course',
-  tagline: 'Comprehensive Generative AI and Machine Learning Course',
+  title: 'CS668 Analytics Capstone Project',
+  tagline: 'Build Comprehensive Apps using Generative AI and Machine Learning',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -72,7 +72,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'CS668 GenAI',
+        title: 'CS668 Analytics Capstone Project',
         logo: {
           alt: 'CS668 Logo',
           src: 'img/logo.svg',
@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CS668 GenAI Course. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CS668 Analytics Capstone Project. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -65,6 +65,9 @@ const sidebars = {
         'llm_fundamentals/introduction_to_llms',
         'llm_fundamentals/api_integration',
         'llm_fundamentals/tokenization_and_context',
+        'llm_fundamentals/inference_parameters',
+        'llm_fundamentals/model_selection',
+        'llm_fundamentals/safety_alignment_ethics',
       ],
     },
     {

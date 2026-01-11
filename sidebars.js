@@ -4,6 +4,7 @@
 const sidebars = {
   tutorialSidebar: [
     'intro',
+    'syllabus',
     {
       type: 'category',
       label: '01 - Data Science Essentials',

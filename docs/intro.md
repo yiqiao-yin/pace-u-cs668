@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /intro
 ---
 
-# CS668: Generative AI Course
+# CS668: Analytics Capstone
 
 Welcome to the comprehensive Generative AI and Machine Learning course! This course covers everything from data science fundamentals to advanced AI agent development.
 

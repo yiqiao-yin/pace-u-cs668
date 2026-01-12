@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Appendix - Final Submission
+# Final Submission
 
 ## Project Requirement
 

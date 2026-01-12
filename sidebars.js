@@ -113,15 +113,9 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Appendix - Submission',
+      label: 'Appendix',
       items: [
         'appendix_submission/README',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Appendix - Project Guidelines',
-      items: [
         'appendix_project_guidelines/README',
       ],
     },

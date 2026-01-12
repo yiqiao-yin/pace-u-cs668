@@ -8,9 +8,15 @@ sidebar_position: 1
 
 Students must build at least one project for the semester and commit their code to a GitHub repository. This is a mandatory requirement for course completion.
 
+## Important Note
+
+This page is for **GitHub repository submission only**. For all other course submissions (proposals, written assignments, posters, etc.), please use your school's official submission portal (e.g., Brightspace, Canvas, or as directed by your instructor).
+
 ## Grading and Earnings
 
 Students must submit their GitHub repository through [wyn360search.com](https://wyn360search.com). Your grade will be determined by your earnings on the platform.
+
+**During the semester, earnings are simulated for grading purposes.** After the course ends, you are welcome to continue using the platform to earn real money from your repositories!
 
 ### How Earnings Work
 

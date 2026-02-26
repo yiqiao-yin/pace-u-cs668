@@ -20,14 +20,9 @@ This course requires a great deal of self-directed work and the ability to manag
 
 **Restrictions/Requirements:** Open to Data Science Majors.
 
-## Main Solution / Platform
-
-- http://wyn360search.com/
-
 ## Main Tools
 
 - **Claude Code**
-- **wyn360-cli**: https://pypi.org/project/wyn360-cli/
 
 ## Folder Structure
 
